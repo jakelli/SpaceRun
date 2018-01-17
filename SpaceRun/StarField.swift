@@ -4,7 +4,6 @@
 //
 //  Created by Jake Ellious on 4/27/16.
 //  Copyright © 2016 Jake Ellious. All rights reserved.
-//
 
 import SpriteKit
 
